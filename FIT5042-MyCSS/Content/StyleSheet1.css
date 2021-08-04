@@ -1,0 +1,38 @@
+﻿<style >
+body {
+}
+.preview {
+    background-color: goldenrod;
+    width: 30%;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-right: 50px;
+    padding-left: 50px;
+}
+
+.previewsecondLevel {
+    color: darkblue;
+    font-size: 20px;
+}
+
+.preview2 {
+    background-color: green;
+    font-size: 30px;
+    width: 50%;
+    box-shadow: initial;
+    border-radius: 10px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-right: 50px;
+    padding-left: 50px;
+    box-shadow: black 0px 0px 10px;
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+
+
+p {
+    color:white;
+}
+
+</style >
